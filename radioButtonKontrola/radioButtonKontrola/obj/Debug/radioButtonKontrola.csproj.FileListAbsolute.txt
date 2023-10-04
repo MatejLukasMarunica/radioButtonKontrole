@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\bin\Debug\radioButtonKontrola.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\bin\Debug\radioButtonKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\bin\Debug\radioButtonKontrola.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\radioButtonKontrola\radioButtonKontrola\obj\Debug\radioButtonKontrola.pdb
